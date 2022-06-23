@@ -48,9 +48,8 @@ Soundchest 🎵is the first modern platform🧡 to create your own music. Become
 ## More
 
 **SoundChest** was created by **Linkspreed**.
-Become a news reporter quickly and easily
-and experience a whole new kind of
-social media.
+Share with other people the music that
+moves you and discover other people's sounds.
 
 SoundChest is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
