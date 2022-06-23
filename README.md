@@ -1,6 +1,6 @@
 # <img align="left" alt="SoundChest" width="100px" src="https://soundchest.cf/themes/default/img/icon.png" draggable="false" /> SoundChest 🎵 ([Click to try 🚀](https://soundchest.cf/))
 
-Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨ It's a whole new kind of social network.🚀
+Soundchest 🎵is the first modern platform🧡 to create your own music. Become a creative artist🎵, share your music, listen to your favorite artists📱 online and offline and enjoy cool music everywhere.
 
 
 ## **[Changelog 🎵](https://github.com/linkspreed/Soundchest/blob/main/changelog.md)** **Check out the full Soundchest changelog**
