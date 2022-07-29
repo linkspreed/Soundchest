@@ -1,3 +1,6 @@
+# 29.07.2022
+ - We will release an update in the near future.
+
 # 24.06.2022
  - The new version 1.4.6 has been released.
 
