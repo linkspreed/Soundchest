@@ -1,3 +1,6 @@
+# 31.08.2022
+ - On September 1st, 2022 we will launch a new update.
+
 # 06.08.2022
  - We have successfully updated Soundchest to the new version (1.4.7).
 
