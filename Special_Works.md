@@ -1,3 +1,6 @@
+# 12.10.2022
+ - We are very pleased to announce that we will be releasing version 1.4.9 in the next few hours. 🚀🥳
+
 # 01.09.2022
  - Update 1.4.8 was successfully installed on the servers.
 
