@@ -1,4 +1,7 @@
 ### 23.10.2022 (announcement SoundChest)
+- We've improved **SoundChest**'s CronJob.
+
+### 23.10.2022 (announcement SoundChest)
 - We're still working on **SoundChest** a bit.
 
 ### 20.10.2022 (announcement SoundChest)
