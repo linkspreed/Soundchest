@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement SoundChest)
+- We're still working on **SoundChest** a bit.
+
 ### 20.10.2022 (announcement SoundChest)
 - We continue to work on **SoundChest**.
 
