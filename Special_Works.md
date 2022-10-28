@@ -1,3 +1,6 @@
+### 28.10.2022 (announcement SoundChest)
+- **SoundChest** now uses the ffmpeg system on our servers.
+
 ### 23.10.2022 (announcement SoundChest)
 - Some small server configurations have been made to **Soundchest**'s servers to make the platform even more secure for users. 😎
 
