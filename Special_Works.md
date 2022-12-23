@@ -1,4 +1,9 @@
 ### 23.12.2022 (announcement Soundchest)
+- The launch of version 1.5 of **Soundchest** was successful! 🥳
+- The new update is live now :)
+- https://soundchest.cf 🔗
+
+### 23.12.2022 (announcement Soundchest)
 - We are now starting the launch of v1.5.
 
 ### 23.12.2022 (announcement Soundchest)
