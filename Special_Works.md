@@ -1,3 +1,6 @@
+### 23.12.2022 (announcement Soundchest)
+- We're currently working on a new update for **Soundchest**!
+
 ### 28.10.2022 (announcement SoundChest)
 - We're going to do a check now.
 
