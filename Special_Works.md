@@ -1,4 +1,7 @@
 ### 23.12.2022 (announcement Soundchest)
+-  **Soundchest** gets a big update today - we are going to launch v1.5. 😍
+
+### 23.12.2022 (announcement Soundchest)
 - We're currently working on a new update for **Soundchest**!
 
 ### 28.10.2022 (announcement SoundChest)
