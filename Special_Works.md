@@ -1,3 +1,6 @@
+### 20.01.2023 (announcement Soundchest)
+-  **Soundchest** gets a big update today - we are going to launch v1.5.2. 😍
+
 ### 13.01.2023 (announcement Soundchest)
 - https://github.com/linkspreed/Soundchest/blob/main/changelog.md
 - The entire changelog is now available on Github.
