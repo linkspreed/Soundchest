@@ -1,4 +1,7 @@
 ### 20.01.2023 (announcement Soundchest)
+- We are now starting the launch of v1.5.2.
+
+### 20.01.2023 (announcement Soundchest)
 - The servers are now ready for the launch of version 1.5.2 for **Soundchest**.
 
 ### 20.01.2023 (announcement Soundchest)
