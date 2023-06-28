@@ -1,3 +1,6 @@
+### 28.06.2023 (announcement Soundchest)
+- 🚀 Exciting news! 🎉 We've just added Soundchest to our subdomain system! ✨💻🎧 Now, when you visit https://soundchest.cf, you'll be redirected to the new link https://soundchest.linkspreed.com. Don't worry, everything will remain the same for you, just a technical background update! 😊👍 Still, have any questions? Drop them below! 👇 #SoundchestUpdate #NewLink #SameGreatPlatform
+
 ### 20.01.2023 (announcement Soundchest)
 - https://github.com/linkspreed/Soundchest/blob/main/changelog.md
 - The entire changelog is now available on Github.
